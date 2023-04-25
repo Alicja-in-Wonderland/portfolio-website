@@ -108,18 +108,8 @@ button:focus,
     border-radius: 50%;
 }
 .page-footer {
-    clear: both;
-    position:relative;
+    position: fixed;
     bottom: 0;
-    margin-bottom: 0;
-    margin-top: 15px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
     text-align: center;
     width: 100%;
     background-color: #a87a08;
@@ -261,5 +251,5 @@ button:focus,
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    min-height: 1100px;
+    min-height: 1200px;
 }
