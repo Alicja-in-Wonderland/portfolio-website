@@ -170,6 +170,7 @@ button:focus,
 .work-section {
     display: flexbox;
     min-height: 1000px;
+    text-align: center;
 }
 .grid__item {
     display: inline-block;
