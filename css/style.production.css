@@ -42,6 +42,7 @@ h3 {
 a {
     color: #5757ff;
 }
+
 a:visited {
     color: #242424;
 }
@@ -55,6 +56,9 @@ a:focus {
 }
 a:active {
     color: #fffaf3;
+}
+a.social-media {
+    text-decoration: none;
 }
 .button {
     border: none;
