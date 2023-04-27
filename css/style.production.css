@@ -251,4 +251,5 @@ button:focus,
         -ms-flex-align: center;
             align-items: center;
     min-height: 1200px;
+    padding: 20px;
 }
