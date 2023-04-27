@@ -173,7 +173,7 @@ button:focus,
         grid-template-columns: 1fr 1fr 1fr;
         grid-gap: 20px;
         color: #fffaf3;
-        margin: 0;
+        margin: 20px;
     }
 }
 .grid__item {
