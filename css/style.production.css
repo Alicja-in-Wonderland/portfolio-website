@@ -158,7 +158,6 @@ button:focus,
     margin: 25px 25px;
 }
 .work-section {
-    display: flexbox;
     min-height: 1000px;
     text-align: center;
 }
