@@ -253,3 +253,23 @@ button:focus,
     min-height: 1200px;
     padding: 20px;
 }
+.about-me {
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.skills {
+    display: flex;
+    margin-left: 75px;
+}
+.skills-items {
+    list-style-type: disc;
+    justify-content: center;
+    padding-left: 20px;
+    margin: 0;
+}
+.skills-items > li {
+    justify-content: center;
+    padding-bottom: 10px;
+    padding-right: 25px;
+}
