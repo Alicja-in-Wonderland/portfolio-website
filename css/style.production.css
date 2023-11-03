@@ -64,6 +64,7 @@ a.social-media {
 .button {
     border: none;
     display: inline-block;
+    justify-items: center;
     font-family: inherit;
     background-color: #a87a08;
     color: #fffaf3;
